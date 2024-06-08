@@ -35,7 +35,6 @@ The CPU Scheduling Simulator is an educational tool that simulates four popular 
 - HTML
 - CSS
 - JavaScript
-- jQuery
 
 ## Getting Started
 
