@@ -20,6 +20,8 @@ The CPU Scheduling Simulator is an educational tool that simulates four popular 
 - Priority-based scheduling
 - Round Robin scheduling
 
+### Scheduling Algorithms Visualization for Operating System Project by Sajjad Ali and Sohail Ahmad
+
 ## Features
 
 - Simulate different scheduling algorithms.
@@ -33,6 +35,7 @@ The CPU Scheduling Simulator is an educational tool that simulates four popular 
 - HTML
 - CSS
 - JavaScript
+- jQuery
 
 ## Getting Started
 
