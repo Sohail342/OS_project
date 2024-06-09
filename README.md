@@ -42,8 +42,4 @@ The CPU Scheduling Simulator is an educational tool that simulates four popular 
 
 To run this project locally, you need to have a web browser installed. No additional software is required.
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cpu-scheduling-simulator.git

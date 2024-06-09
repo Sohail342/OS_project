@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CPU Scheduling Simulator</title>
     <link rel="stylesheet" href="static.css">
-    <script src="scheduling_algos.js" defer></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Include your JavaScript file -->
+    <script src="scheduling_algos.js"></script>
 </head>
 
 <body>
@@ -51,9 +53,10 @@
                     <td class="priority-only"><input type="text" /></td>
                 </tr>
             </table>
-            <input id="minus" style="display: inline; left: 428px; position: absolute; top: 170px;" type="button"
-                value="-" onclick="deleteRow();" />
+            
         </div>
+        <input id="minus" style="display: inline; left: 428px; position: absolute; top: 170px;" type="button"
+                value="-" onclick="deleteRow();" />
         <input type="button" value="+" onclick="addRow();" />
         <div>
         </div>
@@ -68,10 +71,6 @@
         <p class="zaz">
             <u> Total Completion Time: <strong id="timer"></strong> seconds </u>
         </p>
-
     </div>
-
-
 </body>
-
 </html>
