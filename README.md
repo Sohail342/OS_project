@@ -9,8 +9,6 @@ Welcome to the CPU Scheduling Simulator. This project is designed to simulate di
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
